@@ -1,2 +1,2 @@
 # Trio_Practice
-Practice questions and answers solved by team.
+Practice questions and answers solved by team..
